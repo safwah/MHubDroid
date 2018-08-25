@@ -1,0 +1,9 @@
+{
+  "name": "MiraHub",
+  "app_id": "13c9b404",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": []
+}
