@@ -30,9 +30,11 @@
     
 3. ### Screenshots
     
-<img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/5.png"><img src="https://github.com/7appsinc/MHubDroid/blob/master/www/images/screenshots/ionlab.png"><img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/3.png">
-<p>
-<img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/4.png"><img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/6.png">
+<img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/5.png">
+<img src="https://github.com/7appsinc/MHubDroid/blob/master/www/images/screenshots/ionlab.png">
+<img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/3.png">
+<img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/4.png">
+<img src="https://github.com/7appsinc/MHubDroid/raw/master/www/images/screenshots/6.png">
     
 4. ### Production build
    To run or build your app for production, run:
