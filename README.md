@@ -54,4 +54,4 @@
  
 
     Voila! Your Ready Made BoilerPlate Was Chef Crossfully Safe by JustEd-7AppsInc(Asia)| 7appsinc@gmail.com
-    <p>Please visit: http://react7.press/
+    <p>For more info, please visit: http://react7.press/
