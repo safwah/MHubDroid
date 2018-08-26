@@ -18,11 +18,11 @@
 2. ### Install ionic and cordova
    In order to build our app you need to have installed ionic and cordova on your system. To install these packages issue the following command from command line:
 
-        npm i -g ionic@latest
+        $ npm i -g ionic@latest
 
     This will install the ionic and cordova programs on your system. To ensure that you have successfully installed both the programs, issue following command from the command line
 
-        ionic -v && cordova -v
+        $ ionic -v && cordova -v
 
     If version number gets printed on the console, you are good to go. If you get `command not found error`, that means that these programs didn't get properly installed on your system. You'll need to troubleshoot the problem.
 
@@ -40,9 +40,17 @@
 4. ### Production build
    To run or build your app for production, run:
 
-        ionic cordova run android --prod --release
+        $ ionic cordova run android --prod --release
+         
         or 
-        ionic cordova run ios --prod --release
+        
+        $ ionic cordova run ios --prod --release
+        
+        and 
+        
+        if your ionic ionic package is too advance for this :
+        
+        $ npm i -D -E @ionic/v1-toolkit
  
 
     Voila! Your Ready Made BoilerPlate Was Chef Crossfully Safe by JustEd-7AppsInc(Asia)| 7appsinc@gmail.com
