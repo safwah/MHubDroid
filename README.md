@@ -45,4 +45,4 @@
         ionic cordova run ios --prod --release
  
 
-    Voila Your Ready Made BoilerPlate Was Chef Crossfully Safe by JustEd-7AppsInc(Asia)| 7appsinc@gmail.com
+    Voila! Your Ready Made BoilerPlate Was Chef Crossfully Safe by JustEd-7AppsInc(Asia)| 7appsinc@gmail.com
