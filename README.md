@@ -1,4 +1,5 @@
 # Building MiraHubDroid Mobile App w/ ionic Framework
+<img src="https://github.com/7appsinc/MHubDroid/blob/master/www/images/screenshots/mirahub_poster.png">
 
 5. ### Install Node.js
    You must have **Node.js** installed on your system to begin building our app. Please follow the following step if nodejs is not installed on your system. If already done, you can skip this step
