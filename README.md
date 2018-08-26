@@ -48,9 +48,9 @@
         
         and 
         
-        if your ionic ionic package is too advance for this :
+        if your ionic ionic package is too advanced for this :
         
-        $ npm i -D -E @ionic/v1-toolkit
+        $ sudo npm i -D -E @ionic/v1-toolkit
  
 
     Voila! Your Ready Made BoilerPlate Was Chef Crossfully Safe by JustEd-7AppsInc(Asia)| 7appsinc@gmail.com
