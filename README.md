@@ -53,6 +53,8 @@
         $ sudo npm i -D -E @ionic/v1-toolkit
  
 
-        <img src="https://github.com/7appsinc/MHubDroid/blob/master/www/images/screenshots/i.png">
+        
+    <img src="https://github.com/7appsinc/MHubDroid/blob/master/www/images/screenshots/i.png">
+    <p>
     Voila! Your Ready Made BoilerPlate Was Chef Crossfully Safe by JustEd-7AppsInc(Asia)| 7appsinc@gmail.com
     <p>For more info, please visit: http://react7.press/
